@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: url("pattern.jpg");
+}
+header {
+  text-align: center;
+  background-color: steelblue;
+  color: aliceblue;
+}
+h1 {
+  padding-top: 5px;
+  
+}
+h2 {
+  font-size: 2.0em;
+  padding-bottom: 10px;
+}
+
+button {
+  padding: 5px;
+	border: none;
+	background: none;
+	text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.0em;
+	color: aliceblue;
+	height: 100%;
+  transition: all 0.5s;
+  margin: 0 5%;
+  outline: none;
+}
+
+button:hover {
+  background: #f8f8f8;
+  color: #2f2f2f;
+}
+
+#the {
+  color:#e74c3c;
+}
+
+#great {
+  color:#e67e22;
+}
+
+#color {
+  color: #f1c40f;
+}
+
+#guessing {
+  color:#2ecc71;
+}
+
+#game {
+  color: #9b59b6;
+}
+
+#colorValue {
+  text-align: center;
+  font-size: 2.7em;
+  margin: 2px;
+}
+
+.panel {
+  background-color: #2f2f2f;
+  height: 40px;
+  text-align: center;
+}
+
+.container {
+  width: 50%;
+  margin: 1.5% auto;
+  
+}
+
+.sqr {
+  padding-bottom: 30%;
+  width: 30%;
+  background: blue;
+  float: left;
+  margin: 1.66%;
+  transition: all 1s;
+  border-radius: 100%;
+  box-shadow: -4px 4px 8px gray;
+  cursor: pointer;
+  ;
+}
+
+#filler{
+  visibility: hidden;
+}
