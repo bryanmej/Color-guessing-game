@@ -1,3 +1,0 @@
-This was a fun app to build using basic JS concepts like event listeners, functions, loops it was also a great way to practice some css concepts.
-
-I changed the original version was to play with rgb colors but to test myself wanted to use hexadecimal at first I was not sure how to do this so after some googling I came across a function that is supposed to convert the rgb to hex at first I did not understand everything in the code but after doing some test in the console I found out it returns an object with the rgb values as the properties so that was an example of how I was able to implement something I did not fully understand and make it work using the tools at my disposable such as the console.

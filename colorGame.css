@@ -13,11 +13,11 @@ body {
 }
 header {
   text-align: center;
-  background-color: steelblue;
+  background-color: #2f2f2f;
   color: aliceblue;
 }
 h1 {
-  padding-top: 5px;
+  padding-top: 2%;
   
 }
 h2 {
@@ -71,7 +71,7 @@ button:hover {
 }
 
 .panel {
-  background-color: #2f2f2f;
+  background-color: steelblue;
   height: 40px;
   text-align: center;
 }
